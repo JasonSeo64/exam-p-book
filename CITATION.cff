@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "이 자료를 인용할 때는 아래 정보를 사용해 주세요."
+title: "SOA Exam P 확률론 — 보충자료"
+type: software
+authors:
+  - family-names: "Seo"
+    given-names: "Jyeyoung"
+    alias: "JasonSeo64"
+repository-code: "https://github.com/JasonSeo64/exam-p-book"
+license: MIT
+version: "1.0"
+preferred-citation:
+  type: book
+  title: "SOA Exam P 확률론: 보험계리사를 위한 확률의 기초와 응용"
+  authors:
+    - family-names: "Seo"
+      given-names: "Jyeyoung"
+  year: 2026
